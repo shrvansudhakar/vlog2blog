@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+youtube-transcript-api
+openai>=1.0.0
