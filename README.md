@@ -22,7 +22,7 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Requirements
 
 -   Node.js (>=18)
 -   Python 3.9+
