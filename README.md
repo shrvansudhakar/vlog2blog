@@ -31,7 +31,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/vlog2blog.git
+git clone https://github.com/shrvansudhakar/vlog2blog.git
 cd vlog2blog
 ```
 
@@ -53,5 +53,5 @@ npm run dev
 
 ### 4. Test
 
-Frontend: http://localhost:3000
+Frontend: http://localhost:3000 <br>
 Backend: http://localhost:8000
